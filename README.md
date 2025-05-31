@@ -60,10 +60,8 @@ This project analyzes job salary data from Glassdoor to uncover key trends and b
 
 ## 📆 Final Deliverables
 
-* `Glassdoor_EDA.ipynb`: Full EDA visualizations & insights
-* `Glassdoor_ML.ipynb`: Model training, tuning, and evaluation
-* `feature_importance.csv`: Ranked feature importance from XGBoost
-* `glassdoor_jobs_cleaned.csv`: Preprocessed dataset
+* `glassdoor_salaray_prediction`: ML model
+* `glassdoor_jobs.csv`: dataset
 * `README.md` or `Report.pdf`: Summary report for HR/internship submission
 
 
